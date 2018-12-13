@@ -1,0 +1,12 @@
+{
+  "name": "John's Gay Bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Sad & Gay",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.4.2",
+    "winston": "^3.1.0"
+  }
+}
